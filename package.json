@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "ejs": "~1.0.0",
+    "ejs": "~2.2.4",
     "through": "~2.3.4"
   },
   "devDependencies": {
